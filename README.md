@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Darren Darius Tan
 
-## MSc in Business Analytics @ ESADE
-📍 Business Analytics & Data Science | Python | R | SQL | Streamlit
+## Deepening my Commercial Expertise with Technical skills with a MSc in Business Analytics & AI
+📍 Business Analytics | Data Science | Cloud Engineering & Deployment
 
 I'm passionate about solving complex business problems with data-driven solutions. With 2+ years of experience in CRM, project management, and omnichannel roles, I'm now seeking opportunities in cloud-based data pipelines and data analytics.
 
-In parallel, I've built a portfolio of projects that reflect my analytical mindset and interest in real-world applications beyond the scope of finance, ranging from predictive models in healthcare to portfolio tracking apps in Streamlit.
+In parallel, I've built a portfolio of projects that reflect my analytical mindset and interest in real-world applications beyond the scope of traditional Business Analytics, ranging from creating data prototypes to cloud-based data models.
 
-💼 **Portfolio:** [www.darrendarius.site](https://www.darrendarius.site) - My personal site hosting interactive prototypes
+💼 **Portfolio:** [www.darrendarius.site](https://www.darrendarius.site) (My personal site hosting interactive prototypes)
+
 📫 **Email:** [darrendarius.tan@alumni.esade.edu](mailto:darrendarius.tan@alumni.esade.edu)
+
 🔗 **LinkedIn:** [linkedin.com/in/darren-darius-tan](https://www.linkedin.com/in/darren-darius-tan)
 
 ## 🔨 Project Portfolio
@@ -20,9 +22,9 @@ My projects are organized by domain and technology stack. Each repository includ
 - 📊 Key insights and outcomes
 - 📈 Interactive demos where applicable
 
-## 📋 All Repositories (15)
+## 📋 All Repositories Summary
 
-### 🌟 Live Demos
+### 🌟 Featured Projects with Prototypes due to Complexity
 
 ### [Banking-CoPilot](https://github.com/darrendariustan/Banking-CoPilot)
 - Banking CoPilot App featuring Money Transfers and an LLM for Financial Advice (will take 5 minutes to load)
