@@ -3,7 +3,7 @@
 ## Deepening my Commercial Expertise with Technical skills with a MSc in Business Analytics & AI
 📍 Business Analytics | Data Science | Cloud Engineering & Deployment
 
-I'm passionate about solving complex business problems with data-driven solutions. With 2+ years of experience in CRM, project management, and omnichannel roles, I'm now seeking opportunities in cloud-based data pipelines and data analytics.
+I'm passionate about solving complex business problems with data-driven solutions. With 2 years of experience in CRM, project management, and omnichannel roles, I'm now seeking opportunities in cloud-based data pipelines and data analytics.
 
 In parallel, I've built a portfolio of projects that reflect my analytical mindset and interest in real-world applications beyond the scope of traditional Business Analytics, ranging from creating data prototypes to cloud-based data models.
 
@@ -43,15 +43,21 @@ My projects are organized by domain and technology stack. Each repository includ
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 - **Live Demo:** [https://stocks-portfolio-optimizer.onrender.com/](https://stocks-portfolio-optimizer.onrender.com/) (2 min load time)
 
-### [Financial_Portfolio_Analysis](https://github.com/darrendariustan/Financial_Portfolio_Analysis)
-- Coursework for Introduction to Financial Portfolio Analytics
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### [STATA-Financial-Metrics-Analysis](https://github.com/darrendariustan/STATA-Financial-Metrics-Analysis)
+- Analysis examining the relationship between R&D expenditures and financial performance metrics in the petroleum extraction industry
+- ![STATA](https://img.shields.io/badge/-STATA-3776AB?style=flat-square&logoColor=white)
+
 
 ### [Practicum-Project-1-Minimum-Variance-Portfolio-Strategy](https://github.com/darrendariustan/Practicum-Project-1-Minimum-Variance-Portfolio-Strategy)
 - Using L1 LASSO and L2 Ridge constraints in modeling linear regression to minimize variance between assets in a portfolio
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![rJava](https://img.shields.io/badge/-rJava-007396?style=flat-square&logo=java&logoColor=white)
 
 ### 🖥️ Data Visualization & Dashboards
+
+### [Hamlet-R-Visualization](https://github.com/darrendariustan/Hamlet-R-Visualization)
+- Comprehensive visualization of Shakespeare's Hamlet analyzing character dialogue patterns, sentiment progression, and character interactions
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white)
 
 ### [Property-Prices](https://github.com/darrendariustan/Property-Prices)
 - Streamlit Apps for Paris Property Prices
@@ -74,9 +80,6 @@ My projects are organized by domain and technology stack. Each repository includ
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 - **AWS Deployment:** Requires AWS Cloud Services setup
 
-### [Clustering-Algorithms](https://github.com/darrendariustan/Clustering-Algorithms)
-- Using different clustering algorithms for data segmentation
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### 📊 Data Analysis & Modeling
 
@@ -89,9 +92,6 @@ My projects are organized by domain and technology stack. Each repository includ
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidymodels](https://img.shields.io/badge/-tidymodels-75AADB?style=flat-square&logo=r&logoColor=white)
 - **Live Demo:** [https://airbnb-price-prediction-r.onrender.com/](https://airbnb-price-prediction-r.onrender.com/) (2 min load time)
 
-### [Multiple-Linear-Regression-Basic](https://github.com/darrendariustan/Multiple-Linear-Regression-Basic)
-- My first project with Python showing correlations between multiple variables using linear regression
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### [Advanced-SQL](https://github.com/darrendariustan/Advanced-SQL)
 - Advanced SQL Exercises demonstrating complex queries and data analysis
@@ -113,4 +113,4 @@ My projects are organized by domain and technology stack. Each repository includ
 - GitHub: [darrendariustan](https://github.com/darrendariustan)
 
 ---
-*Last updated: May 2025*
+*Last updated: May 23, 2025*
