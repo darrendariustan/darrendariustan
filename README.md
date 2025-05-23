@@ -39,7 +39,7 @@ My projects are organized by domain and technology stack. Each repository includ
 ### [Stocks-Portfolio-Optimizer](https://github.com/darrendariustan/Stocks-Portfolio-Optimizer)
 - Stock Portfolio Visualizer and Optimizer as part of Prototyping Course
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-- **Run locally:** `streamlit run app.py` after cloning
+- **Live Demo:** [https://stocks-portfolio-optimizer.onrender.com/](https://stocks-portfolio-optimizer.onrender.com/) (2 min load time)
 
 ### [Financial_Portfolio_Analysis](https://github.com/darrendariustan/Financial_Portfolio_Analysis)
 - Coursework for Introduction to Financial Portfolio Analytics
@@ -54,7 +54,7 @@ My projects are organized by domain and technology stack. Each repository includ
 ### [Property-Prices](https://github.com/darrendariustan/Property-Prices)
 - Streamlit Apps for Paris Property Prices
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-- **Run locally:** `streamlit run app.py` after cloning
+- **Live Demo:** [https://paris-property-price.onrender.com/](https://paris-property-price.onrender.com/) (2 min load time)
 
 ### 🧠 Machine Learning & AI
 
@@ -70,7 +70,7 @@ My projects are organized by domain and technology stack. Each repository includ
 ### [NLP_Cloud_News_Classifier](https://github.com/darrendariustan/NLP_Cloud_News_Classifier)
 - Training an NLP model to classify news into 10 categories, embedding the model in a Python Flask Web App
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- **Run locally:** `streamlit run app.py` after cloning
+- **AWS Deployment:** Requires AWS Cloud Services setup
 
 ### [Clustering-Algorithms](https://github.com/darrendariustan/Clustering-Algorithms)
 - Using different clustering algorithms for data segmentation
@@ -85,6 +85,7 @@ My projects are organized by domain and technology stack. Each repository includ
 ### [AirBNB-price-prediction-R](https://github.com/darrendariustan/AirBNB-price-prediction-R)
 - Using R tidymodels to predict AirBNB house prices - as part of R course
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidymodels](https://img.shields.io/badge/-tidymodels-75AADB?style=flat-square&logo=r&logoColor=white)
+- **Live Demo:** [https://airbnb-price-prediction-r.onrender.com/](https://airbnb-price-prediction-r.onrender.com/) (2 min load time)
 
 ### [Multiple-Linear-Regression-Basic](https://github.com/darrendariustan/Multiple-Linear-Regression-Basic)
 - My first project with Python showing correlations between multiple variables using linear regression
@@ -96,7 +97,7 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ## 🛠️ Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![STATA](https://img.shields.io/badge/-STATA-3776AB?style=flat-square&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, ggplot2, Tableau
 
