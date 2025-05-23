@@ -1,0 +1,17 @@
+# Ignore sensitive files
+github_token.txt
+
+# Ignore utility scripts and generated files
+analyze_repos.py
+save_token.py
+repo_analysis.md
+repo_data.json
+
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
