@@ -8,6 +8,9 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write       # Needed to write to the repository
+      pull-requests: read  # Needed to read repository information
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
