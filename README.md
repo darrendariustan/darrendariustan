@@ -24,19 +24,29 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ## All Repositories Summary
 
-### 🌟 Featured Projects with Prototypes due to Complexity
+### 🌟 Featured Projects with Prototypes
 
-### [Banking-CoPilot](https://github.com/darrendariustan/Banking-CoPilot)
-- Banking CoPilot App featuring Money Transfers and an LLM for Financial Advice (will take 5 minutes to load)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-- **Live Demo:** [https://banking-copilot.onrender.com/](https://banking-copilot.onrender.com/)
+### [Property-Prices](https://github.com/darrendariustan/Property-Prices)
+- Streamlit Apps for Paris Property Prices
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=folium&logoColor=white) ![Streamlit Folium](https://img.shields.io/badge/-Streamlit%20Folium-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+- **Live Demo:** [https://paris-property-price.onrender.com/](https://paris-property-price.onrender.com/) (2 min load time)
 
 ### [RShiny-Demonstration](https://github.com/darrendariustan/RShiny-Demonstration)
 - Visualizing traffic accidents using RShiny
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![RShiny](https://img.shields.io/badge/-RShiny-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![dplyr](https://img.shields.io/badge/-dplyr-75AADB?style=flat-square&logo=r&logoColor=white) ![DT](https://img.shields.io/badge/-DT-276DC3?style=flat-square&logo=r&logoColor=white) ![shinydashboard](https://img.shields.io/badge/-shinydashboard-4682B4?style=flat-square&logo=r&logoColor=white)
 - **Live Demo:** [https://traffic-accidents-shiny.onrender.com/](https://traffic-accidents-shiny.onrender.com/)
 
+### [Hamlet-R-Visualization](https://github.com/darrendariustan/Hamlet-R-Visualization)
+- Comprehensive visualization of Shakespeare's Hamlet analyzing character dialogue patterns, sentiment progression, and character interactions
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![tidytext](https://img.shields.io/badge/-tidytext-276DC3?style=flat-square&logo=r&logoColor=white) ![wordcloud](https://img.shields.io/badge/-wordcloud-4682B4?style=flat-square&logo=r&logoColor=white) ![ggbump](https://img.shields.io/badge/-ggbump-75AADB?style=flat-square&logo=r&logoColor=white) ![ggridges](https://img.shields.io/badge/-ggridges-75AADB?style=flat-square&logo=r&logoColor=white) ![circlize](https://img.shields.io/badge/-circlize-276DC3?style=flat-square&logo=r&logoColor=white) ![patchwork](https://img.shields.io/badge/-patchwork-4682B4?style=flat-square&logo=r&logoColor=white)
+
+
 ### 💼 Financial & Banking Applications
+
+### [Banking-CoPilot](https://github.com/darrendariustan/Banking-CoPilot)
+- Banking CoPilot App featuring Money Transfers and an LLM for Financial Advice (will take 5 minutes to load)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+- **Live Demo:** [https://banking-copilot.onrender.com/](https://banking-copilot.onrender.com/)
 
 ### [Stocks-Portfolio-Optimizer](https://github.com/darrendariustan/Stocks-Portfolio-Optimizer)
 - Stock Portfolio Visualizer and Optimizer as part of Prototyping Course
@@ -52,17 +62,6 @@ My projects are organized by domain and technology stack. Each repository includ
 ### [Practicum-Project-1-Minimum-Variance-Portfolio-Strategy](https://github.com/darrendariustan/Practicum-Project-1-Minimum-Variance-Portfolio-Strategy)
 - Using L1 LASSO and L2 Ridge constraints in supervised learning modeling linear regression to minimize variance between assets in a portfolio
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![rJava](https://img.shields.io/badge/-rJava-007396?style=flat-square&logo=java&logoColor=white)
-
-### 🖥️ Data Visualization & Dashboards
-
-### [Hamlet-R-Visualization](https://github.com/darrendariustan/Hamlet-R-Visualization)
-- Comprehensive visualization of Shakespeare's Hamlet analyzing character dialogue patterns, sentiment progression, and character interactions
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![tidytext](https://img.shields.io/badge/-tidytext-276DC3?style=flat-square&logo=r&logoColor=white) ![wordcloud](https://img.shields.io/badge/-wordcloud-4682B4?style=flat-square&logo=r&logoColor=white) ![ggbump](https://img.shields.io/badge/-ggbump-75AADB?style=flat-square&logo=r&logoColor=white) ![ggridges](https://img.shields.io/badge/-ggridges-75AADB?style=flat-square&logo=r&logoColor=white) ![circlize](https://img.shields.io/badge/-circlize-276DC3?style=flat-square&logo=r&logoColor=white) ![patchwork](https://img.shields.io/badge/-patchwork-4682B4?style=flat-square&logo=r&logoColor=white)
-
-### [Property-Prices](https://github.com/darrendariustan/Property-Prices)
-- Streamlit Apps for Paris Property Prices
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=folium&logoColor=white) ![Streamlit Folium](https://img.shields.io/badge/-Streamlit%20Folium-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-- **Live Demo:** [https://paris-property-price.onrender.com/](https://paris-property-price.onrender.com/) (2 min load time)
 
 ### 🧠 Machine Learning & AI
 
