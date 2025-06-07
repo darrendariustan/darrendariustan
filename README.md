@@ -26,6 +26,11 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ### 🌟 Featured Projects with Prototypes
 
+### [Movie-Recommender-App](https://github.com/darrendariustan/Movie-Recommender-App)
+- An intelligent hybrid movie recommendation system combining SVD and Neural Network collaborative filtering with cosine similarity
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![scikit-surprise](https://img.shields.io/badge/-scikit--surprise-FF9900?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- **Live Demo:** [https://movie-recommender-app-yujk.onrender.com/](https://movie-recommender-app-yujk.onrender.com/)
+
 ### [Property-Prices](https://github.com/darrendariustan/Property-Prices)
 - Streamlit Apps for Paris Property Prices
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=folium&logoColor=white) ![Streamlit Folium](https://img.shields.io/badge/-Streamlit%20Folium-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
