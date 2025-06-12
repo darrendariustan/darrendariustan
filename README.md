@@ -119,10 +119,5 @@ My projects are organized by domain and technology stack. Each repository includ
 
 - **Tools & Platforms**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## Connect with Me
-
-- Location: Singapore 🇸🇬
-- GitHub: [darrendariustan](https://github.com/darrendariustan)
-
 ---
 *Last updated: May 23, 2025*
