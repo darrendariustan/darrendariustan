@@ -22,9 +22,9 @@ My projects are organized by domain and technology stack. Each repository includ
 - Key insights and outcomes
 - Interactive demos where applicable
 
-## All Repositories Summary
+# All Repositories Summary
 
-### 🌟 Featured Projects with Prototypes
+## 🌟 Featured Projects with Prototypes
 
 ### [Movie-Recommender-App](https://github.com/darrendariustan/Movie-Recommender-App)
 - An intelligent hybrid movie recommendation system combining SVD and Neural Network collaborative filtering with cosine similarity
@@ -41,12 +41,13 @@ My projects are organized by domain and technology stack. Each repository includ
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![RShiny](https://img.shields.io/badge/-RShiny-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![dplyr](https://img.shields.io/badge/-dplyr-75AADB?style=flat-square&logo=r&logoColor=white) ![DT](https://img.shields.io/badge/-DT-276DC3?style=flat-square&logo=r&logoColor=white) ![shinydashboard](https://img.shields.io/badge/-shinydashboard-4682B4?style=flat-square&logo=r&logoColor=white)
 - **Live Demo:** [https://traffic-accidents-shiny.onrender.com/](https://traffic-accidents-shiny.onrender.com/)
 
-### [Hamlet-R-Visualization](https://github.com/darrendariustan/Hamlet-R-Visualization)
-- Comprehensive visualization of Shakespeare's Hamlet analyzing character dialogue patterns, sentiment progression, and character interactions
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![tidytext](https://img.shields.io/badge/-tidytext-276DC3?style=flat-square&logo=r&logoColor=white) ![wordcloud](https://img.shields.io/badge/-wordcloud-4682B4?style=flat-square&logo=r&logoColor=white) ![ggbump](https://img.shields.io/badge/-ggbump-75AADB?style=flat-square&logo=r&logoColor=white) ![ggridges](https://img.shields.io/badge/-ggridges-75AADB?style=flat-square&logo=r&logoColor=white) ![circlize](https://img.shields.io/badge/-circlize-276DC3?style=flat-square&logo=r&logoColor=white) ![patchwork](https://img.shields.io/badge/-patchwork-4682B4?style=flat-square&logo=r&logoColor=white)
 
+### [AirBNB-price-prediction-R](https://github.com/darrendariustan/AirBNB-price-prediction-R)
+- Using R tidymodels to predict AirBNB house prices - as part of R course
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidymodels](https://img.shields.io/badge/-tidymodels-75AADB?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![sf](https://img.shields.io/badge/-sf-276DC3?style=flat-square&logo=r&logoColor=white) ![leaflet](https://img.shields.io/badge/-leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![ggmap](https://img.shields.io/badge/-ggmap-4682B4?style=flat-square&logo=r&logoColor=white) ![lubridate](https://img.shields.io/badge/-lubridate-276DC3?style=flat-square&logo=r&logoColor=white) ![workflows](https://img.shields.io/badge/-workflows-75AADB?style=flat-square&logo=r&logoColor=white)
+- **Live Demo:** [https://airbnb-price-prediction-r.onrender.com/](https://airbnb-price-prediction-r.onrender.com/) (2 min load time)
 
-### 💼 Financial & Banking Applications
+## 💼 Financial & Banking Applications
 
 ### [Banking-CoPilot](https://github.com/darrendariustan/Banking-CoPilot)
 - Banking CoPilot App featuring Money Transfers and an LLM for Financial Advice (will take 5 minutes to load)
@@ -68,7 +69,7 @@ My projects are organized by domain and technology stack. Each repository includ
 - Using L1 LASSO and L2 Ridge constraints in supervised learning modeling linear regression to minimize variance between assets in a portfolio
 - ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![rJava](https://img.shields.io/badge/-rJava-007396?style=flat-square&logo=java&logoColor=white)
 
-### 🧠 Machine Learning & AI
+## 🧠 Machine Learning & AI
 
 ### [AWS-Churn-Sagemaker](https://github.com/darrendariustan/AWS-Churn-Sagemaker)
 - Classification ML Problem for Telecommunications Company Predicting Customer Churn with AWS Sagemaker
@@ -85,16 +86,16 @@ My projects are organized by domain and technology stack. Each repository includ
 - **AWS Deployment:** Requires AWS Cloud Services setup
 
 
-### 📊 Data Analysis & Modeling
+## 📊 Data Analysis & Modeling
 
 ### [Ecommerce-STP-Analysis-Exercise](https://github.com/darrendariustan/Ecommerce-STP-Analysis-Exercise)
 - Using Unsupervised Learning to Optimize Marketing Resources and Business Impact
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### [AirBNB-price-prediction-R](https://github.com/darrendariustan/AirBNB-price-prediction-R)
-- Using R tidymodels to predict AirBNB house prices - as part of R course
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidymodels](https://img.shields.io/badge/-tidymodels-75AADB?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![sf](https://img.shields.io/badge/-sf-276DC3?style=flat-square&logo=r&logoColor=white) ![leaflet](https://img.shields.io/badge/-leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![ggmap](https://img.shields.io/badge/-ggmap-4682B4?style=flat-square&logo=r&logoColor=white) ![lubridate](https://img.shields.io/badge/-lubridate-276DC3?style=flat-square&logo=r&logoColor=white) ![workflows](https://img.shields.io/badge/-workflows-75AADB?style=flat-square&logo=r&logoColor=white)
-- **Live Demo:** [https://airbnb-price-prediction-r.onrender.com/](https://airbnb-price-prediction-r.onrender.com/) (2 min load time)
+
+### [Hamlet-R-Visualization](https://github.com/darrendariustan/Hamlet-R-Visualization)
+- Comprehensive visualization of Shakespeare's Hamlet analyzing character dialogue patterns, sentiment progression, and character interactions
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![tidyverse](https://img.shields.io/badge/-tidyverse-75AADB?style=flat-square&logo=r&logoColor=white) ![ggplot2](https://img.shields.io/badge/-ggplot2-75AADB?style=flat-square&logo=r&logoColor=white) ![tidytext](https://img.shields.io/badge/-tidytext-276DC3?style=flat-square&logo=r&logoColor=white) ![wordcloud](https://img.shields.io/badge/-wordcloud-4682B4?style=flat-square&logo=r&logoColor=white) ![ggbump](https://img.shields.io/badge/-ggbump-75AADB?style=flat-square&logo=r&logoColor=white) ![ggridges](https://img.shields.io/badge/-ggridges-75AADB?style=flat-square&logo=r&logoColor=white) ![circlize](https://img.shields.io/badge/-circlize-276DC3?style=flat-square&logo=r&logoColor=white) ![patchwork](https://img.shields.io/badge/-patchwork-4682B4?style=flat-square&logo=r&logoColor=white)
 
 
 ### [Advanced-SQL](https://github.com/darrendariustan/Advanced-SQL)
