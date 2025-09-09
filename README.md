@@ -61,7 +61,7 @@ My projects are organized by domain and technology stack. Each repository includ
 
 
 ### [STATA-Financial-Metrics-Analysis](https://github.com/darrendariustan/STATA-Financial-Metrics-Analysis)
-- Analysis examining the relationship between R&D expenditures and financial performance metrics in the petroleum extraction industry
+- Analysis examining the relationship between R&D expenditures and financial performance metrics in the cigarettes industry
 - ![STATA](https://img.shields.io/badge/-STATA-3776AB?style=flat-square&logoColor=white)
 
 
