@@ -71,6 +71,11 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ## 🧠 Machine Learning & AI
 
+### [Exam-Grading-Agent](https://github.com/darrendariustan/Exam-Grading-Agent)
+- Agentic AI system for automated exam grading using OpenAI SDK framework - Master's capstone project featuring multi-agent orchestration for technical, narrative/strategy, and VC-pitch exams
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![Agents](https://img.shields.io/badge/-AI%20Agents-FF6B35?style=flat-square&logo=robot&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-4CAF50?style=flat-square&logo=network-wired&logoColor=white) ![PDF Processing](https://img.shields.io/badge/-PDF%20Processing-DC143C?style=flat-square&logo=adobe-acrobat-reader&logoColor=white) ![Audio Analysis](https://img.shields.io/badge/-Audio%20Analysis-9C27B0?style=flat-square&logo=waveform&logoColor=white)
+- **Run locally:** `python run_example.py` in desired agent folder after setup
+
 ### [AWS-Churn-Sagemaker](https://github.com/darrendariustan/AWS-Churn-Sagemaker)
 - Classification ML Problem for Telecommunications Company Predicting Customer Churn with AWS Sagemaker
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-3776AB?style=flat-square&logo=python&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -121,4 +126,4 @@ My projects are organized by domain and technology stack. Each repository includ
 - **Tools & Platforms**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-*Last updated: May 23, 2025*
+*Last updated: September 13, 2024*
