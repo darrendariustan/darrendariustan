@@ -60,6 +60,10 @@ My projects are organized by domain and technology stack. Each repository includ
 - **Live Demo:** [https://stocks-portfolio-optimizer.onrender.com/](https://stocks-portfolio-optimizer.onrender.com/) (2 min load time)
 
 
+### [Credit-Loan-Default](https://github.com/darrendariustan/Credit-Loan-Default)
+- Classification model predicting loan defaults by different loan grades using machine learning techniques
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-006400?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
 ### [STATA-Financial-Metrics-Analysis](https://github.com/darrendariustan/STATA-Financial-Metrics-Analysis)
 - Analysis examining the relationship between R&D expenditures and financial performance metrics in the cigarettes industry
 - ![STATA](https://img.shields.io/badge/-STATA-3776AB?style=flat-square&logoColor=white)
@@ -76,14 +80,14 @@ My projects are organized by domain and technology stack. Each repository includ
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![Agents](https://img.shields.io/badge/-AI%20Agents-FF6B35?style=flat-square&logo=robot&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-4CAF50?style=flat-square&logo=network-wired&logoColor=white) ![PDF Processing](https://img.shields.io/badge/-PDF%20Processing-DC143C?style=flat-square&logo=adobe-acrobat-reader&logoColor=white) ![Audio Analysis](https://img.shields.io/badge/-Audio%20Analysis-9C27B0?style=flat-square&logo=waveform&logoColor=white)
 - **Run locally:** `python run_example.py` in desired agent folder after setup
 
+### [Bicing-LSTM-Model](https://github.com/darrendariustan/Bicing-LSTM-Model)
+- Deep learning time series analysis for predicting bike usage patterns in Barcelona's Bicing bike sharing service using LSTM neural networks
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Time Series](https://img.shields.io/badge/-Time%20Series-4B8BBE?style=flat-square&logo=python&logoColor=white)
+
 ### [AWS-Churn-Sagemaker](https://github.com/darrendariustan/AWS-Churn-Sagemaker)
 - Classification ML Problem for Telecommunications Company Predicting Customer Churn with AWS Sagemaker
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-3776AB?style=flat-square&logo=python&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 - **Run locally:** `streamlit run app.py` after cloning
-
-### [Deep-Learning-CNN](https://github.com/darrendariustan/Deep-Learning-CNN)
-- CNN For Image Recognition
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ### [NLP_Cloud_News_Classifier](https://github.com/darrendariustan/NLP_Cloud_News_Classifier)
 - Training an NLP model to classify news into 10 categories, embedding the model in a Python Flask Web App
@@ -126,4 +130,4 @@ My projects are organized by domain and technology stack. Each repository includ
 - **Tools & Platforms**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-*Last updated: September 13, 2024*
+*Last updated: September 21, 2024*
