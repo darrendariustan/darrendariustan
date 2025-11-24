@@ -71,14 +71,14 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ### [Practicum-Project-1-Minimum-Variance-Portfolio-Strategy](https://github.com/darrendariustan/Practicum-Project-1-Minimum-Variance-Portfolio-Strategy)
 - Using L1 LASSO and L2 Ridge constraints in supervised learning modeling linear regression to minimize variance between assets in a portfolio
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) ![rJava](https://img.shields.io/badge/-rJava-007396?style=flat-square&logo=java&logoColor=white)
+
 
 ## 🧠 Machine Learning & AI
 
 ### [Exam-Grading-Agent](https://github.com/darrendariustan/Exam-Grading-Agent)
 - Agentic AI system for automated exam grading using OpenAI SDK framework - Master's capstone project featuring multi-agent orchestration for technical, narrative/strategy, and VC-pitch exams
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![Agents](https://img.shields.io/badge/-AI%20Agents-FF6B35?style=flat-square&logo=robot&logoColor=white) ![Multi-Agent](https://img.shields.io/badge/-Multi--Agent-4CAF50?style=flat-square&logo=network-wired&logoColor=white) ![PDF Processing](https://img.shields.io/badge/-PDF%20Processing-DC143C?style=flat-square&logo=adobe-acrobat-reader&logoColor=white) ![Audio Analysis](https://img.shields.io/badge/-Audio%20Analysis-9C27B0?style=flat-square&logo=waveform&logoColor=white)
-- **Run locally:** `python run_example.py` in desired agent folder after setup
+- **Run locally:** `python run_example.py` (or `python gradio_ui_1.py` with Gradio UI)
 
 ### [Bicing-LSTM-Model](https://github.com/darrendariustan/Bicing-LSTM-Model)
 - Deep learning time series analysis for predicting bike usage patterns in Barcelona's Bicing bike sharing service using LSTM neural networks
@@ -86,8 +86,8 @@ My projects are organized by domain and technology stack. Each repository includ
 
 ### [AWS-Churn-Sagemaker](https://github.com/darrendariustan/AWS-Churn-Sagemaker)
 - Classification ML Problem for Telecommunications Company Predicting Customer Churn with AWS Sagemaker
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-3776AB?style=flat-square&logo=python&logoColor=white) ![CSV](https://img.shields.io/badge/-CSV-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- **Run locally:** `streamlit run app.py` after cloning
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pickle](https://img.shields.io/badge/-Pickle-3776AB?style=flat-square&logo=python&logoColor=white)
+- **AWS Deployment:** Requires AWS Cloud Services setup
 
 ### [NLP_Cloud_News_Classifier](https://github.com/darrendariustan/NLP_Cloud_News_Classifier)
 - Training an NLP model to classify news into 10 categories, embedding the model in a Python Flask Web App
@@ -119,15 +119,15 @@ My projects are organized by domain and technology stack. Each repository includ
 
 - **Machine Learning & AI**: ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-61DAFB?style=flat-square&logo=chainlink&logoColor=white) ![Transformers](https://img.shields.io/badge/-🤗%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![tidymodels](https://img.shields.io/badge/-tidymodels-75AADB?style=flat-square&logo=r&logoColor=white)
 
-- **Web Development & Frameworks**: ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![RShiny](https://img.shields.io/badge/-RShiny-75AADB?style=flat-square&logo=r&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+- **Web Development & Frameworks**: ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![RShiny](https://img.shields.io/badge/-RShiny-75AADB?style=flat-square&logo=r&logoColor=white) 
 
-- **Cloud & Deployment**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+- **Cloud & Deployment**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
-- **Geospatial & Mapping**: ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=folium&logoColor=white) ![ggmap](https://img.shields.io/badge/-ggmap-4682B4?style=flat-square&logo=r&logoColor=white) ![sf](https://img.shields.io/badge/-sf-276DC3?style=flat-square&logo=r&logoColor=white)
+- **Geospatial & Mapping**: ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white) ![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=folium&logoColor=white) ![ggmap](https://img.shields.io/badge/-ggmap-4682B4?style=flat-square&logo=r&logoColor=white) 
 
 - **Specialized Libraries**: ![PyPfOpt](https://img.shields.io/badge/-PyPfOpt-FF6B35?style=flat-square&logo=python&logoColor=white) ![tidytext](https://img.shields.io/badge/-tidytext-276DC3?style=flat-square&logo=r&logoColor=white) ![wordcloud](https://img.shields.io/badge/-wordcloud-4682B4?style=flat-square&logo=r&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white) ![feedparser](https://img.shields.io/badge/-feedparser-FF6600?style=flat-square&logo=rss&logoColor=white)
 
 - **Tools & Platforms**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
-*Last updated: September 21, 2024*
+*Last updated: September 21, 2025*
