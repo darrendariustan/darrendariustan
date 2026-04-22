@@ -7,7 +7,7 @@ I'm passionate about solving complex business problems with data-driven solution
 
 In parallel, I've built a portfolio of projects that reflect my analytical mindset and interest in real-world applications beyond the scope of traditional Business Analytics, ranging from creating data prototypes to cloud-based data models.
 
-💼 **Portfolio:** [www.darrendarius.site](https://www.darrendarius.site) (My personal site hosting interactive prototypes)
+💼 **Portfolio:** [www.darrendarius.site](https://www.darrendarius.site) (My personal site hosting interactive prototypes) **Update: Inactive**
 
 📫 **Email:** [darrendarius.tan@alumni.esade.edu](mailto:darrendarius.tan@alumni.esade.edu)
 
@@ -24,7 +24,12 @@ My projects are organized by domain and technology stack. Each repository includ
 
 # All Repositories Summary
 
-## 🌟 Featured Projects with Prototypes
+## 🌟 Featured Projects:
+
+### [Digital-Twin](https://github.com/darrendariustan/Digital-Twin)
+- A personalized AI assistant modeled to interact as a digital representation of myself, built on a highly scalable serverless AWS architecture.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Live Demo:** [https://darren-digitaltwin.click/](https://darren-digitaltwin.click/)
 
 ### [Movie-Recommender-App](https://github.com/darrendariustan/Movie-Recommender-App)
 - An intelligent hybrid movie recommendation system combining SVD and Neural Network collaborative filtering with cosine similarity
@@ -48,6 +53,11 @@ My projects are organized by domain and technology stack. Each repository includ
 - **Live Demo:** [https://airbnb-price-prediction-r.onrender.com/](https://airbnb-price-prediction-r.onrender.com/) (2 min load time)
 
 ## 💼 Financial & Banking Applications
+
+### [Agentic-RAG-Financial-Planner](https://github.com/darrendariustan/Agentic-RAG-Financial-Planner)
+- A multi-agent, enterprise-grade SaaS financial planning platform that analyses equity portfolios using a coordinated team of specialised AI agents and RAG against a curated vector index of financial knowledge.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- **Live Demo:** [https://www.darren-agentic-financial-advisor.click/](https://www.darren-agentic-financial-advisor.click/)
 
 ### [Banking-CoPilot](https://github.com/darrendariustan/Banking-CoPilot)
 - Banking CoPilot App featuring Money Transfers and an LLM for Financial Advice (will take 5 minutes to load)
